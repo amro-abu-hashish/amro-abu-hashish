@@ -38,23 +38,11 @@ I am a **Site Reliability Engineer** focused on building resilient, self-healing
 - **Security-First:** Integrating automated vulnerability scanning and identity management into the heart of the pipeline.
 - **Efficiency:** Obsessed with cloud cost-optimization and reducing operational toil.
 
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amro-abu-hashish&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amro-abu-hashish" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amro-abu-hashish&show_icons=true&locale=en&theme=vision-friendly-dark" alt="amro-abu-hashish" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amro-abu-hashish&theme=vision-friendly-dark" alt="amro-abu-hashish" />
-</p>
 
 ---
 
 ### 🛰️ Connect with Me
 - **LinkedIn:** [Amr Abu Hashish](https://linkedin.com/in/amr-abuhashish-b3077a202)
-- **LeetCode:** [amro-abu-hashish](https://leetcode.com/amro-abu-hashish)
 - **Email:** [amroabuhashish@gmail.com](mailto:amroabuhashish@gmail.com)
 
 ---

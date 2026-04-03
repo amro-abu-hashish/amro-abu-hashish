@@ -1,52 +1,63 @@
-<h1 align="center">Hi 👋, I'm Amr Abu Hashish</h1>
-<h3 align="center">Computer Engineer | DevOps & SRE Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Amro Abu Hashish</h1>
+<h3 align="center">Computer Engineer | Cloud Architect | DevOps & SRE</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=top1million&label=Profile%20views&color=0e75b6&style=flat" alt="top1million" />
+  <img src="https://komarev.com/ghpvc/?username=amro-abu-hashish&label=Profile%20views&color=0e75b6&style=flat" alt="amro-abu-hashish" />
 </p>
 
 ---
 
-### 🌱 Currently diving deep into:
-**Kubernetes | Docker | Jenkins** — building scalable, resilient infrastructure and automation pipelines.
+### 🌟 Professional Certifications & Focus
+I specialize in building high-availability cloud infrastructure and automated deployment engines.
 
-### 🚀 About Me:
-- Passionate about transforming complex systems into smooth, automated workflows.
-- Experienced in cloud platforms like AWS & Azure, container orchestration, CI/CD, and infrastructure as code.
-- Always exploring new tools and best practices to elevate reliability and efficiency.
-
-### 📫 Let's connect:
-- Email: **[aasahashish@gmail.com](mailto:aasahashish@gmail.com)**
-- LinkedIn: [amr-abuhashish-b3077a202](https://linkedin.com/in/amr-abuhashish-b3077a202)
-- LeetCode: [top1million](https://leetcode.com/top1million)
+* **☁️ Google Cloud Certified:** Professional Cloud Architect (**PCA**).
+* **🎯 Currently Pursuing:** AWS Solutions Architect Associate (**SAA**) & Certified Kubernetes Administrator (**CKA**).
+* **🛠️ Core Expertise:** Designing resilient systems, CI/CD automation, and multi-cloud strategy.
 
 ---
 
-### 🛠️ Languages & Tools I use and love:
+### 🚀 About Me
+- **Architectural Mindset:** Passionate about transforming complex legacy systems into scalable, automated cloud workflows.
+- **Tools I Live In:** Kubernetes, Docker, Jenkins, and Terraform.
+- **Goal-Oriented:** Focused on site reliability, reducing toil, and optimizing cloud spend.
+
+---
+
+### 🛠️ Languages & Tools
 <p align="left">
-  <!-- Keep your current icons for tech stack here -->
-  <!-- Example icons: -->
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45" />
+  </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" />
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" />
   </a>
-  <!-- Continue with your other icons as you have -->
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45" />
+  </a>
 </p>
 
 ---
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=top1million&show_icons=true&locale=en&layout=compact" alt="top1million" />
+### 📊 GitHub Ecosystem
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amro-abu-hashish&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amro-abu-hashish" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amro-abu-hashish&show_icons=true&locale=en&theme=vision-friendly-dark" alt="amro-abu-hashish" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=top1million&show_icons=true&locale=en" alt="top1million" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amro-abu-hashish&theme=vision-friendly-dark" alt="amro-abu-hashish" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=top1million&" alt="top1million" /></p>
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** [Amr Abu Hashish](https://linkedin.com/in/amr-abuhashish-b3077a202)
+- **Email:** [amroabuhashish@gmail.com](mailto:amroabuhashish@gmail.com)
+
+---

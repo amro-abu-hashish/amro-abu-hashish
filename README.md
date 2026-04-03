@@ -38,7 +38,7 @@ I am a Site Reliability Engineer dedicated to the **"zero-to-one"** journey—tr
 
 ### 🎯 2026 Roadmap
 - [ ] **Certifications:** Achieving **AWS Solutions Architect Associate** & **Certified Kubernetes Administrator (CKA)**.
-- [ ] **FinOps:** Driving cloud cost-optimization through advanced resource scheduling and spot instance utilization.
+- [ ] **FinOps:** Driving cloud cost-optimization.
 - [ ] **Advanced Observability:** Enhancing proactive monitoring and automated alerting systems.
 
 

@@ -58,7 +58,6 @@ I am a Site Reliability Engineer dedicated to the **"zero-to-one"** journey—tr
 ### 📫 Let's Connect
 - **Email:** [amroabuhashish@gmail.com](mailto:amroabuhashish@gmail.com)
 - **LinkedIn:** [Amr Abu Hashish](https://linkedin.com/in/amr-abuhashish-b3077a202)
-- **LeetCode:** [amro-abu-hashish](https://leetcode.com/amro-abu-hashish)
 
 ---
 <p align="center"><i>"Evolve constantly. Leave zero tasks behind. Build for each other."</i></p>

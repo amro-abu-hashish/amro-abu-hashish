@@ -41,17 +41,6 @@ I am a Site Reliability Engineer dedicated to the **"zero-to-one"** journey—tr
 - [ ] **FinOps:** Driving cloud cost-optimization through advanced resource scheduling and spot instance utilization.
 - [ ] **Advanced Observability:** Enhancing proactive monitoring and automated alerting systems.
 
----
-
-### 📊 GitHub Insights
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amro-abu-hashish&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amro-abu-hashish" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amro-abu-hashish&show_icons=true&locale=en&theme=vision-friendly-dark" alt="amro-abu-hashish" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amro-abu-hashish&theme=vision-friendly-dark" alt="amro-abu-hashish" />
-</p>
 
 ---
 

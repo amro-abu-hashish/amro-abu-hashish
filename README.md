@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amro Abu Hashish</h1>
-<h3 align="center">Computer Engineer | Cloud Architect | DevOps & SRE</h3>
+<h1 align="center">Hi 👋, I'm Amr Abu Hashish</h1>
+<h3 align="center">Site Reliability Engineer | Cloud Architect | Automation Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amro-abu-hashish&label=Profile%20views&color=0e75b6&style=flat" alt="amro-abu-hashish" />
@@ -7,44 +7,43 @@
 
 ---
 
-### 🌟 Professional Certifications & Focus
-I specialize in building high-availability cloud infrastructure and automated deployment engines.
+### 🚀 Professional Profile
+I am a Site Reliability Engineer dedicated to the **"zero-to-one"** journey—transforming complex infrastructure into resilient, automated, and scalable cloud environments. I specialize in bridging the gap between development and operations through high-ownership engineering and proactive problem-solving.
 
-* **☁️ Google Cloud Certified:** Professional Cloud Architect (**PCA**).
-* **🎯 Currently Pursuing:** AWS Solutions Architect Associate (**SAA**) & Certified Kubernetes Administrator (**CKA**).
-* **🛠️ Core Expertise:** Designing resilient systems, CI/CD automation, and multi-cloud strategy.
-
----
-
-### 🚀 About Me
-- **Architectural Mindset:** Passionate about transforming complex legacy systems into scalable, automated cloud workflows.
-- **Tools I Live In:** Kubernetes, Docker, Jenkins, and Terraform.
-- **Goal-Oriented:** Focused on site reliability, reducing toil, and optimizing cloud spend.
+* **☁️ Multi-Cloud Strategy:** **Google Cloud Professional Cloud Architect (PCA)**. Currently expanding expertise in **AWS (SAA)**.
+* **☸️ Orchestration:** Deeply focused on **Kubernetes (GKE/EKS)** administration and zero-downtime service transitions.
+* **🤖 Systems Automation:** Leveraging **Python** and **IaC** to build cross-platform scaling engines and operational efficiency tools.
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" />
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45" />
-  </a>
-</p>
+### 🛠️ Tech Stack & Expertise
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Cloud Platforms** | Google Cloud (GCP), AWS, Azure, Linode |
+| **Infrastructure as Code** | Terraform, Cloudflare, Shell Scripting |
+| **Containers & K8s** | Docker, Kubernetes (GKE/EKS), Helm |
+| **CI/CD Pipelines** | Jenkins (Shared Libraries), Bitbucket Pipelines, GitHub Actions |
+| **Observability** | Elastic Stack (ELK), APM, Filebeat, Prometheus |
+| **Database & Web** | MySQL, MongoDB, PHP-FPM tuning, Nginx |
 
 ---
 
-### 📊 GitHub Ecosystem
+### 📈 Core Competencies
+- **Infrastructure Reliability:** Proven track record in managing large-scale migrations and maintaining high-availability systems.
+- **Automation First:** Focused on reducing toil by automating resource cleanup, scaling, and deployment flows.
+- **Incident Management:** Experienced in high-pressure troubleshooting and restoring critical services during major outages.
+- **Security & Compliance:** Implementing security hardening, vulnerability patching, and secret management across cloud environments.
+
+---
+
+### 🎯 2026 Roadmap
+- [ ] **Certifications:** Achieving **AWS Solutions Architect Associate** & **Certified Kubernetes Administrator (CKA)**.
+- [ ] **FinOps:** Driving cloud cost-optimization through advanced resource scheduling and spot instance utilization.
+- [ ] **Advanced Observability:** Enhancing proactive monitoring and automated alerting systems.
+
+---
+
+### 📊 GitHub Insights
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amro-abu-hashish&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amro-abu-hashish" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amro-abu-hashish&show_icons=true&locale=en&theme=vision-friendly-dark" alt="amro-abu-hashish" />
@@ -57,7 +56,9 @@ I specialize in building high-availability cloud infrastructure and automated de
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Amr Abu Hashish](https://linkedin.com/in/amr-abuhashish-b3077a202)
 - **Email:** [amroabuhashish@gmail.com](mailto:amroabuhashish@gmail.com)
+- **LinkedIn:** [Amr Abu Hashish](https://linkedin.com/in/amr-abuhashish-b3077a202)
+- **LeetCode:** [amro-abu-hashish](https://leetcode.com/amro-abu-hashish)
 
 ---
+<p align="center"><i>"Evolve constantly. Leave zero tasks behind. Build for each other."</i></p>
